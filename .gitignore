@@ -16,6 +16,7 @@
 .consulo/
 
 *.tgz
+!IMR_tema1/Packages/com.ptc.vuforia.engine-*.tgz
 
 
 .vs/
@@ -56,6 +57,7 @@ crashlytics-build.properties
 
 
 *.dat
+!IMR_tema1/Assets/StreamingAssets/Vuforia/*.dat
 *.data
 *.bundle
 *.pck
